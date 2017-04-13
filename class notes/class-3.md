@@ -22,7 +22,8 @@
 - ![Markdown](http://i1.piimg.com/1949/4a84d9f9071520fa.jpg) 
   - 美西到中国:20-25天  
   - 美湾到中国:40-45天(走好望角)
-  - 南美到中国:40-45天
+  - 南美到中国:40-45天  
+  
 **CIF与FOB的区别和联系:**
 ![Markdown](http://i2.muimg.com/1949/26472e163ffcbebb.png)  
 - 由于条款多为英文,国内大豆进口商，除外资油厂如CARGILL， BUNGE等会做FOB外，一般都采用CIF方式进口，因为FOB方式涉及到租船等，较为复杂。故国内大多用CIF,风险小  
