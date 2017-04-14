@@ -25,7 +25,7 @@
   
 **CNF与FOB的区别和联系:**  
 
-![Markdown](http://i2.muimg.com/1949/26472e163ffcbebb.png)  
+![Markdown](http://i1.piimg.com/1949/888109df8896aee0.jpg)
 - 由于条款多为英文,国内大豆进口商，除外资油厂如CARGILL， BUNGE等会做FOB外，一般都采用CIF方式进口，因为FOB方式涉及到租船等，较为复杂。故国内大多用CIF,风险小  
 > 我国大豆加工产能严重过剩,机器开工率不到50%,故企业按产能进行大豆采购预算  
 大豆进口合同中定价只定贴水部分  
